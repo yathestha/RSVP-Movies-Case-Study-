@@ -1,0 +1,2 @@
+# RSVP-Movies-Case-Study-
+RSVP Movies is an Indian film production company, they are planning to release a movie for a global audience in 2022. The purpose of this document is to produce an Executive Summary for RSVP Movies for their upcoming project, this analysis is based on the IMDB data set for movies produced in 2017,2018,2019. they could use shared points to plan their collaboration for upcoming movie projects.
